@@ -1,0 +1,10 @@
+requests
+pymupdf
+scikit-learn
+reportlab
+playwright
+numpy
+python-dotenv
+langgraph
+langchain
+langchain-ollama

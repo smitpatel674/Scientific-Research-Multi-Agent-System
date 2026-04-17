@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*
+.venv/
+
+# macOS
+.DS_Store
+
+# Pytest
+.pytest_cache/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# Local runtime and output folders
+firecrawl_local_output/
+query_output/
+research_outputs/
+downloaded_papers/
+
+# Editor directories
+.vscode/
+.idea/
