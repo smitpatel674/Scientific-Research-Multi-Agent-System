@@ -33,7 +33,7 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/smitpatel674/Scientific-Research-Multi-Agent-System
 cd scientific_research_agent
 ```
 
